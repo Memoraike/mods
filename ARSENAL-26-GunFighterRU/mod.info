@@ -1,0 +1,10 @@
+name=Arsenal(26) GunFighter RU Translation
+id=Arsenal(26)GunFighterRU
+poster=preview.png
+description=Добавляет расширенные функции и механики огнестрельного оружия.
+require=modoptions
+require=Arsenal(26)GunFighter
+require=Brita
+tags=RU
+icon=icon.png
+authors=666rdsrds666 any Redison86 & Memoraike

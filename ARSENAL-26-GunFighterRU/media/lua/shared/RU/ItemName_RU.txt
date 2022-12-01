@@ -1,0 +1,53 @@
+ItemName_RU = {
+    ItemName_Base.DoubleBarrelShotgun		= "Двуствольный дробовик H&R",
+    ItemName_Base.DoubleBarrelShotgunSawnoff	= "Двуствольный дробовик H&R (спиленный)",
+    ItemName_Base.Shotgun			= "Помповый дробовик H&R Pardner",
+    ItemName_Base.ShotgunSawnoff		= "Помповый дробовик H&R Pardner (спиленный)",
+
+    ItemName_Base.Colt_Service45		= "Пистолет Colt New Service Revolver (45-LC)",
+    ItemName_Base.Revolver_Short		= "Револьвер Ruger GP100 2"bbl (38-Spc)",
+    ItemName_Base.Revolver			= " Револьвер Ruger GP100 4"bbl (38-Spc)",
+    ItemName_Base.Revolver_Long		= "Револьвер Ruger GP100 6"bbl (38-Spc)",
+
+    ItemName_Base.Pistol			= "Пистолет Taurus M9",
+    ItemName_Base.Pistol2			= "Пистолет Rock Island Armory 1911",
+    ItemName_Base.Pistol3			= "Пистолет Magnum Research Desert Eagle",
+
+    ItemName_Base.VarmintRifle		= "Винтовка Weatherby Vanguard Varmint",
+    ItemName_Base.HuntingRifle		= "Охотничья винтовка Howa 1500",
+
+    ItemName_Base.AssaultRifle		= "Штурмовая винтовка M16A1",
+    ItemName_Base.AssaultRifle2		= "Штурмовая винтовка M14",
+
+
+    ItemName_Base.Bullets9mm		= "Патроны 9x19mm"
+    ItemName_Base.Bullets38		= "Патроны 38-SPC"
+    ItemName_Base.Bullets45		= "Патроны 45-ACP"
+    ItemName_Base.Bullets44		= "Патроны 44-MAG"
+    ItemName_Base.223Bullets		= "Патроны 223-REM"
+    ItemName_Base.556Bullets		= "Патроны 5.56x45mm"
+    ItemName_Base.308Bullets		= "Патроны 308-WIN"
+    ItemName_Base.ShotgunShells		= "Патроны для дробовика 12g"
+
+    ItemName_Base.Bullets9mmBox		= "Коробка патронов 9x19mm",
+    ItemName_Base.Bullets38Box		= "Коробка патронов 38-SPC",
+    ItemName_Base.Bullets45Box		= "Коробка патронов 45-ACP",
+    ItemName_Base.Bullets44Box		= "Коробка патронов 44-MAG",
+    ItemName_Base.223Box		= "Коробка патронов 223-REM",
+    ItemName_Base.556Box		= "Коробка патронов 5.56x45mm",
+    ItemName_Base.308Box		= "Коробка патронов 308-WIN",
+    ItemName_Base.ShotgunShellsBox	= "Коробка патронов 12g",
+
+    ItemName_Base.9mmClip		= "Двойной магазин 9x19mm",
+    ItemName_Base.45Clip		= "Магазин 45-ACP",
+    ItemName_Base.44Clip		= "Магазин 44-MAG",
+    ItemName_Base.223Clip		= "Охотничий магазин 223-REM",
+    ItemName_Base.556Clip		= "Магазин STANAG 5,56x45mm",
+    ItemName_Base.308Clip		= "Охотничий магазин 308-WIN",
+
+
+    ItemName_Base.308BulletsMold	= "Литейная форма под патрон 308-NATO",
+    ItemName_Base.223BulletsMold	= "Литейная форма под патрон 223-REM",
+    ItemName_Base.9mmBulletsMold	= "Литейная форма под патрон 9x19mm",
+    ItemName_Base.ShotgunShellsMold	= "Литейная форма под патрон 12g Shotgun",
+}

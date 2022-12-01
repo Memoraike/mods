@@ -1,0 +1,13 @@
+IGUI_RU = {
+    IGUI_ItemCat_AmmoBox = "Коробка патронов",
+    IGUI_ItemCat_GunMag = "Магазин",
+    IGUI_ItemCat_FixedMag = "Откалиброванный магазин",
+    IGUI_ItemCat_GunClean = "Средство для чистки оружия",
+    IGUI_ItemCat_WeaponConversion = "Конверсия оружия",
+    IGUI_ItemCat_Components = "Перезарядка компонентов",
+    IGUI_ItemCat_ReloadingTool = "Инструменты перезарядки",
+
+    IGUI_Sandbox_worldOptions = "GunFighter настройки",
+}
+
+
