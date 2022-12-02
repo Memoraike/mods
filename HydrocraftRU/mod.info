@@ -1,0 +1,9 @@
+name=Hydrocraft Build 41 Continued RU
+id=Hydrocraft
+poster=poster.png
+description=Добавляет в игру огромное кол-во новых рецептов и предметов.
+require=modoptions
+require=Hydrocraft
+tags=RU
+icon=icon.png
+authors=Memoraike

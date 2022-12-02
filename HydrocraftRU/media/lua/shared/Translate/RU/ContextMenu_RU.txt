@@ -1,0 +1,7 @@
+ContextMenu_RU = {
+    ContextMenu_Build_Trellis = "Установить шпалеру",
+    ContextMenu_Inject = "Ввести",
+    ContextMenu_Sniff = "Вдохнуть",
+    ContextMenu_Sow_Trellis_Seed = "Посеять на шпалере",
+    ContextMenu_Water_Pump = "Водяной насос",
+}
