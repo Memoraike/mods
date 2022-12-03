@@ -1,0 +1,9 @@
+name=ADVANCED G.E.A.R. RU
+poster=poster.png
+id=ADVANCEDGEARRUMEMO
+require=PlayerTraps
+require=ADVANCEDGEAR
+description=Новые предметы и не только для вашего личного Армагеддона :)
+tags=RU
+icon=icon.png
+authors=Memoraike

@@ -1,0 +1,5 @@
+IGUI_RU = {
+	-- All the UI text used in game
+	-- InventoryPane
+	IGUI_GadgetCoordinates = "Координаты: ",
+}

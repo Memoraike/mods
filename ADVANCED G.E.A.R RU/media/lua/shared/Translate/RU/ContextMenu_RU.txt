@@ -1,0 +1,8 @@
+ContextMenu_RU = {
+    ContextMenu_Wear_AmmoStrap = "Надеть ремень для боеприпасов",	
+    ContextMenu_WearTight = "Затянуть",
+    ContextMenu_WearLoose = "Ослабить",
+    ContextMenu_Wear_Bandolier = "Надеть патронташ",
+    ContextMenu_ChangeSide = "Сменить сторону",
+    ContextMenu_WearVest = "Надеть",
+} 
