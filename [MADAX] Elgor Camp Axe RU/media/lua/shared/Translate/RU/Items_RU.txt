@@ -1,0 +1,5 @@
+Items_RU = {
+  DisplayName_Elgor_Camp_Axe = "Походный топор Элгора",
+  DisplayName_Elgor_Camp_Axe_(Hammer_Mod) = "Походный топор Элгора (молоток+)",
+  DisplayName_Elgor_Camp_Axe_(Pierce_Mod) = "Мачете Akier (эргономическое)",
+}

@@ -1,0 +1,10 @@
+Recipes_RU = {
+  Recipe_Add_Nail_Mod = "Вбить гвозди в биту",
+  Recipe_Add_Barbed_Mod = "Обмотать колючей проволокой биту",
+  Recipe_Add_Heavy_Mod = "Утяжелить биту",
+  Recipe_Add_Axe_Mod = "Добавить рубящий эффект бите",
+  Recipe_Remove_Nail_Mod = "Выбить гвозди из биты",
+  Recipe_Remove_Barbed_Mod = "Снять колючую проволоку с биты",
+  Recipe_Remove_Axe_Mod = "Убрать рубящий эффект с биты",
+  Recipe_Remove_Heavy_Mod = "Убрать утяжелитель биты",
+}

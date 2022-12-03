@@ -1,0 +1,8 @@
+name=[MADAX] Elgor Camp Axe RU
+id=MDXelgorcampaxeRUM
+description=Добавляет кастомизированный топор
+poster=poster.png
+require=MDXelgorcampaxe
+tags=RU
+icon=icon.png
+authors=Memoraike

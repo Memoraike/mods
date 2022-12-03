@@ -1,0 +1,8 @@
+name=[MADAX] Rager Baseball Bat RU
+id=MDXragerbaseballbatRUM
+description=Добавляет кастомизированную бейсбольную биту
+poster=poster.png
+require=MDXragerbaseballbat
+tags=RU
+icon=icon.png
+authors=Memoraike

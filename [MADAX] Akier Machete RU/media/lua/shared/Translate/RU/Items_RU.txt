@@ -1,0 +1,8 @@
+Items_RU = {
+  DisplayName_Akier_Machete = "Мачете Akier",
+  DisplayName_Akier_Machete_(Short_Mod) = "Мачете Akier (укороченное)",
+  DisplayName_Akier_Machete_(Ergonomic_Mod) = "Мачете Akier (эргономическое)",
+  DisplayName_Akier_Machete_(Ergonomic&Short_Mod) = "Мачете Akier (эргономическое&укороченное)",
+  DisplayName_Akier_Machete_(Barbed_Mod) = "Мачете Akier (колючая проволока)",
+  DisplayName_Akier_Machete_(Bleed_Mod) = "Мачете Akier (зазубренное)",
+}

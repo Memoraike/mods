@@ -1,0 +1,8 @@
+name=[MADAX] Akier Machete RU
+id=MDXakiermacheteRUM
+description=Добавляет новое мачете с модификациями
+poster=poster.png
+icon=icon.png
+authors=Memoraike
+require=MDXakiermachete
+tags=RU

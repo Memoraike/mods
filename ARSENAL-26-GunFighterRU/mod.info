@@ -1,5 +1,5 @@
-name=Arsenal(26) GunFighter RU Translation
-id=Arsenal(26)GunFighterRU
+name=Arsenal(26) GunFighter RU
+id=Arsenal(26)GunFighterRUM
 poster=preview.png
 description=Добавляет расширенные функции и механики огнестрельного оружия.
 require=modoptions

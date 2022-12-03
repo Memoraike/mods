@@ -1,0 +1,6 @@
+Recipes_RU = {
+  Recipe_Add_Hammer_Mod = "Сделать топор-молоток",
+  Recipe_Remove_Hammer_Mod = "Разобрать топор молоток",
+  Recipe_Add_Pierce_Mod = "Добавить иглу к топору",
+  Recipe_Remove_Pierce_Mod = "Убрать иглу из топора",
+}

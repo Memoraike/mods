@@ -1,0 +1,7 @@
+Items_RU = {
+  DisplayName_Rager_Baseball_Bat = "Бейсбольная бита",
+  DisplayName_Rager_Baseball_Bat_(Nail_Mod) = "Бейсбольная биты с гвоздями",
+  DisplayName_Rager_Baseball_Bat_(Barbed_Mod) = "Бейсбольная бита с колючей проволокой",
+  DisplayName_Rager_Baseball_Bat_(Heavy_Mod) = "Утяжеленная бейсбольная бита",
+  DisplayName_Rager_Baseball_Bat_(Axe_Mod) = "Рубящая бейсбольная бита",
+}

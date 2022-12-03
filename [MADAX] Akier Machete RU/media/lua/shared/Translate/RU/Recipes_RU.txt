@@ -1,0 +1,9 @@
+Recipes_RU = {
+  Recipe_Add_Barbed_Mod = "Обмотать колючей проволокой мачете",
+  Recipe_Add_Bleed_Mod = "Установить дисковую пилу на мачете",
+  Recipe_Add_Short_Modification = "Укоротить мачете",
+  Recipe_Add_Ergonomic_Mod = "Добавить мачете эргономичности",
+  Recipe_Remove_Ergonomic_Mod = "Убрать эргономичность с мачете",
+  Recipe_Remove_Barbed_Mod = "Убрать колючую проволоку с мачете",
+  Recipe_Remove_Bleed_Mod = "Отварить дисковую пилу с мачете ",
+}
