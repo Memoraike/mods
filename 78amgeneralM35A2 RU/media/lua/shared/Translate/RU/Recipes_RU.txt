@@ -1,0 +1,16 @@
+Recipes_RU = {
+		Recipe_Convert_M35A2_RunFlat_Tire = "Преобразовать M35A2 армейские шины",
+		Recipe_Convert_Standard_RunFlat_Tire = "Преобразовать стандартные армейские шины",
+		Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать M35A2 ось 4 шины",
+		Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать M35A2 ось 4 шины",
+		Recipe_Make_M35A2_Muffler = "Сделать M35A2 глушитель",
+		Recipe_Make_M35A2_Stake_Construction = "Make M35A2 Stake Construction",
+		Recipe_Make_M35A2_Tarp_cover = "Сделать M35A2 брезентовое покрытие",
+		Recipe_Make_M35A2_Stake = "Сделать M35A2 Stake",
+		Recipe_Make_M35A2_Bumper = "Сделать M35A2 бампер",
+		Recipe_Make_M35A2_Grille = "Сделать M35A2 брызговики",
+		Recipe_Make_M35A2_Side_Window = "Сделать M35A2 боковое окно",
+		Recipe_Make_M35A2_Windshield = "Сделать M35A2 лобовое стекло",
+		Recipe_Make_M35A2_Windshield_Armor = "Сделать M35A2 лобовую броню",
+		Recipe_Make_M35A2_Door_Armor = "Сделать M35A2 дверную броню",
+}
